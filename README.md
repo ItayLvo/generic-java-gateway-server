@@ -262,12 +262,10 @@ private class PluginService {
 
 ## Future Work
 
-- **Complete TODOs and Tests**: Address remaining tasks and enhance test coverage.
 - **Improved Documentation**: Add detailed code comments and user documentation.
 - **Performance Optimization**: Fine-tune the thread pool and resource management.
-- **Additional Features**:
+- **Security**: Integrate HTTPS, validate and encrypt client data (required all around).
 
-  - Extend protocol support (HTTPS).
 
 
 
