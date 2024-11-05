@@ -17,7 +17,6 @@ public class GatewayServer {
         setupConnectionService();
     }
 
-    //TODO hard coded or given by user?
     private void setupConnectionService() {
         try {
             connectionService.addTCPConnection("0.0.0.1", 9111);
